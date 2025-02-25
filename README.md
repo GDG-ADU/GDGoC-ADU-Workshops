@@ -1,4 +1,4 @@
-![GDG ADU Workshops](https://drive.google.com/uc?export=view&id=1-APMUvqbvmd8fvcxZomDb-jp4mN-y23Y)
+![GDG ADU Workshops](https://docs.google.com/uc?export=view&id=1olybwGv3TOJTj_UjELmsHSj9N9w4zBHni4hUcNvI3Lc)
 # GDGoC ADU Workshops
 
 Welcome to the official Google Developer Groups on Campus Abu Dhabi University workshops repository!  
